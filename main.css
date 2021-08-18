@@ -1,0 +1,55 @@
+
+body{
+  font-family: 'tway_air';
+}
+
+.header_menu {
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+.header_menu > ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.header_menu > ul >li{
+  display: inline-block;
+  padding-right: 10px;
+  padding-left : 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.main_title{
+  padding-top:15px;
+  padding-bottom: 15px;
+}
+
+.title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title > a {
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+}
+
+.main_contents .main_html_img > img{
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+@font-face {
+  font-family: 'tway_air';
+  src: url('C:\\Users\\Kosmo\\Desktop\\web\\tway_air.ttf') format('truetype');
+}
